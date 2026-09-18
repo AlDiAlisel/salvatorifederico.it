@@ -1,0 +1,2927 @@
+# FILE MARKDOWN – Struttura, contenuti e SEO sito Salvatori Federico
+
+> Questo file è una guida operativa completa per creare il sito `salvatorifederico.it`, ottimizzarlo in chiave SEO local e fornire contenuti pronti o semi-pronti per pagine, servizi, blog, area operativa, contatti, Google Business Profile e Facebook.
+>
+> **Istruzioni per l’agente / sviluppatore / content manager:**
+> - Usa questa struttura per creare sitemap, menu, pagine e articoli.
+> - Mantieni coerenza di nome, telefono, email e aree servite su sito, Google Business Profile e Facebook.
+> - Sostituisci i placeholder: `[P.IVA]`, `[URL_FACEBOOK]`, `[INDIRIZZO_SEDE_SOLO_SE_PRESENTE]`.
+> - Non inventare recensioni, certificazioni o indirizzi non reali.
+> - Priorità: sito veloce, mobile-first, contatti facili, SEO locale su Umbria e Marche.
+
+---
+
+## 1. Dati aziendali e posizionamento
+
+### Nome azienda / brand
+**Salvatori Federico**
+
+### Dominio
+`https://salvatorifederico.it`
+
+### Attività principale
+Servizi professionali di arboricoltura, manutenzione alberi, abbattimento alberi ad alto fusto, lavori in fune, potatura, valutazione di stabilità, consolidamento arboreo e gestione emergenze.
+
+### Area operativa principale
+- Umbria
+  - Terni
+  - Perugia
+- Marche
+  - Ascoli Piceno
+  - Fermo
+  - Macerata
+  - Ancona
+
+### Contatti
+- Telefono: **+39 349 542 3828**
+- Link telefono: `tel:+393495423828`
+- WhatsApp: `https://wa.me/393495423828`
+- Email: **salvatori.federico97@libero.it**
+- P. IVA: `[P.IVA]`
+- Facebook: `[URL_FACEBOOK]`
+
+### Tone of voice
+- Professionale ma umano.
+- Competente, chiaro, rispettoso degli alberi.
+- Orientato a sicurezza, sostenibilità, prevenzione e qualità dell’intervento.
+- Mai aggressivo o allarmistico.
+
+### Messaggio chiave
+Salvatori Federico è un professionista dell’arboricoltura che unisce formazione specifica, aggiornamento continuo, rispetto per l’albero e attenzione alla sicurezza di persone, edifici e spazi circostanti.
+
+---
+
+## 2. Obiettivi del sito
+
+1. **Generare contatti qualificati** da privati, condomini, aziende, amministratori di condominio, enti e proprietari di aree verdi.
+2. **Posizionarsi localmente** per ricerche come:
+   - arboricoltura Umbria
+   - arboricoltura Marche
+   - potatura alberi Terni
+   - potatura alberi Perugia
+   - abbattimento alberi Ancona
+   - abbattimento alberi alto fusto Marche
+   - tree climbing Umbria
+   - valutazione stabilità alberi Macerata
+   - consolidamento alberi Fermo
+   - emergenza alberi danneggiati Ascoli Piceno
+3. **Costruire autorevolezza** tramite contenuti utili, spiegazioni tecniche, formazione, blog e casi di intervento.
+4. **Spiegare i servizi** in modo semplice ma preciso, evidenziando quando servono e perché affidarsi a un professionista.
+5. **Supportare Google Business Profile e Facebook** con una destinazione web coerente e ottimizzata.
+
+---
+
+## 3. Architettura del sito consigliata
+
+### Sitemap principale
+
+```text
+/
+/chi-sono
+/servizi
+/servizi/potatura-alberi
+/servizi/abbattimento-alberi
+/servizi/valutazione-stabilita-alberi
+/servizi/consolidamento-arboreo
+/servizi/gestione-emergenze-alberi
+/servizi/lavori-in-fune-tree-climbing
+/formazione-e-attestati
+/area-operativa
+/blog
+/blog/[slug-articolo]
+/contatti
+/privacy-policy
+/cookie-policy
+```
+
+### Pagine locali consigliate
+
+Da creare come sotto-pagine dell’area operativa oppure come pagine locali dedicate:
+
+```text
+/area-operativa/arboricoltura-potatura-alberi-terni
+/area-operativa/arboricoltura-potatura-alberi-perugia
+/area-operativa/arboricoltura-potatura-alberi-ascoli-piceno
+/area-operativa/arboricoltura-potatura-alberi-fermo
+/area-operativa/arboricoltura-potatura-alberi-macerata
+/area-operativa/arboricoltura-potatura-alberi-ancona
+```
+
+### Menu principale consigliato
+
+- Home
+- Chi sono
+- Servizi
+  - Potatura alberi
+  - Abbattimento alberi
+  - Valutazione di stabilità
+  - Consolidamento arboreo
+  - Gestione emergenze
+  - Lavori in fune / Tree climbing
+- Formazione
+- Area operativa
+- Blog
+- Contatti
+
+### CTA principale da usare nel menu e nelle pagine
+- **Richiedi un sopralluogo**
+- **Chiedi una consulenza**
+- **Chiama ora**
+- **Scrivi su WhatsApp**
+
+---
+
+## 4. Keyword strategy
+
+### Keyword principali per pagina
+
+| Pagina | Keyword principale | Keyword secondarie |
+|---|---|---|
+| Home | arboricoltura Umbria e Marche | servizi di arboricoltura, potatura alberi, abbattimento alberi alto fusto, lavori in fune |
+| Potatura | potatura alberi | potatura alberi ornamentali, potatura alberi alto fusto, potatura in tree climbing, potatura sostenibile |
+| Abbattimenti | abbattimento alberi | abbattimento alberi alto fusto, abbattimento controllato, abbattimento in tree climbing, rimozione alberi |
+| Valutazione stabilità | valutazione stabilità alberi | analisi stabilità albero, controllo albero, perizia albero, albero pericoloso |
+| Consolidamento | consolidamento arboreo | consolidamento alberi, sostegno branche, messa in sicurezza albero |
+| Emergenze | emergenza alberi | alberi danneggiati maltempo, intervento urgente alberi, rimozione rami pericolanti |
+| Lavori in fune | lavori in fune alberi | tree climbing, abbattimento con funi, potatura su fune, accesso su fune |
+| Area operativa | arboricoltore Umbria Marche | potatura Terni, potatura Perugia, abbattimento Ancona, tree climbing Macerata |
+| Blog | cura alberi, potatura, sicurezza alberi | quando potare, alberi pericolosi, maltempo e alberi, manutenzione verde |
+
+### Intenti di ricerca da coprire
+- Informativo: capire quando potare, se un albero è pericoloso, se serve un abbattimento.
+- Locale: trovare un arboricoltore vicino a Terni, Perugia, Ancona, ecc.
+- Transazionale: richiedere sopralluogo, preventivo, intervento urgente.
+
+---
+
+## 5. Elementi globali del sito
+
+### Header
+Logo o nome testuale:
+
+```text
+Salvatori Federico
+Arboricoltura, potatura e lavori in fune
+```
+
+CTA visibile:
+
+```text
+Richiedi sopralluogo
+```
+
+Telefono cliccabile:
+
+```html
+<a href="tel:+393495423828">+39 349 542 3828</a>
+```
+
+### Footer
+Il footer deve contenere:
+
+- Nome: Salvatori Federico
+- Breve descrizione SEO:
+  > Servizi di arboricoltura, potatura, abbattimento alberi ad alto fusto, valutazione di stabilità, consolidamento arboreo e lavori in fune in Umbria e Marche.
+- Telefono
+- Email
+- P. IVA: `[P.IVA]`
+- Link a Privacy Policy e Cookie Policy
+- Link alle pagine servizi
+- Link a Facebook
+- Area operativa: Umbria e Marche
+- Nota facoltativa:
+  > Si riceve su appuntamento / interventi su sopralluogo.
+
+### Microcopy di fiducia da riusare
+- Sopralluogo e valutazione preventiva
+- Interventi pianificati e sicuri
+- Rispetto della fisiologia dell’albero
+- Formazione e aggiornamento continuo
+- Copertura Umbria e Marche
+
+---
+
+## 6. Homepage
+
+### URL
+`/`
+
+### Titolo SEO
+```text
+Arboricoltura, Potatura e Abbattimento Alberi in Umbria e Marche | Salvatori Federico
+```
+
+### Meta description
+```text
+Servizi professionali di arboricoltura, potatura, abbattimento alberi alto fusto, lavori in fune, valutazione di stabilità ed emergenze in Umbria e Marche.
+```
+
+### H1
+```text
+Arboricoltura professionale in Umbria e Marche: cura, sicurezza e rispetto degli alberi
+```
+
+### Testo hero
+```text
+Mi occupo di arboricoltura, potatura, abbattimento di alberi ad alto fusto, lavori in fune, valutazione di stabilità e gestione delle emergenze arboree.
+
+Intervengo in Umbria e Marche, in particolare nelle province di Terni, Perugia, Ascoli Piceno, Fermo, Macerata e Ancona, con un approccio tecnico, sicuro e rispettoso dell’albero.
+```
+
+### CTA hero
+```text
+Richiedi un sopralluogo
+```
+
+CTA secondaria:
+
+```text
+Scopri i servizi
+```
+
+---
+
+### Sezione: presentazione breve
+
+H2:
+
+```text
+Cura degli alberi, competenza e sicurezza
+```
+
+Testo:
+
+```text
+Ogni albero è un organismo vivente complesso. Per questo ogni intervento deve essere valutato con attenzione, scegliendo la soluzione più adatta tra potatura, consolidamento, monitoraggio, abbattimento controllato o lavoro in fune.
+
+Salvatori Federico nasce come realtà specializzata nella gestione professionale degli alberi, con attenzione alla sicurezza delle persone, alla tutela del patrimonio arboreo e alla qualità dell’intervento.
+```
+
+CTA:
+
+```text
+Chi sono
+```
+
+---
+
+### Sezione: servizi principali
+
+H2:
+
+```text
+Servizi di arboricoltura
+```
+
+Intro:
+
+```text
+Interventi professionali su alberi ornamentali, alberi ad alto fusto e aree verdi, con soluzioni pianificate in base alla specie, alla struttura della pianta e al contesto circostante.
+```
+
+#### Card 1 – Potatura
+
+Titolo:
+
+```text
+Potatura
+```
+
+Testo:
+
+```text
+Per accompagnare l’albero nel suo sviluppo, rispettandone struttura, fisiologia e naturale evoluzione.
+```
+
+CTA:
+
+```text
+Scopri il servizio
+```
+
+Link:
+
+```text
+/servizi/potatura-alberi
+```
+
+#### Card 2 – Abbattimenti
+
+Titolo:
+
+```text
+Abbattimento alberi
+```
+
+Testo:
+
+```text
+Interventi pianificati e controllati, anche su alberi ad alto fusto e in contesti difficili da raggiungere.
+```
+
+CTA:
+
+```text
+Scopri il servizio
+```
+
+Link:
+
+```text
+/servizi/abbattimento-alberi
+```
+
+#### Card 3 – Valutazione di stabilità
+
+Titolo:
+
+```text
+Valutazione di stabilità
+```
+
+Testo:
+
+```text
+Analisi delle condizioni strutturali e fisiologiche dell’albero per individuare criticità e livello di rischio.
+```
+
+CTA:
+
+```text
+Scopri il servizio
+```
+
+Link:
+
+```text
+/servizi/valutazione-stabilita-alberi
+```
+
+#### Card 4 – Consolidamento arboreo
+
+Titolo:
+
+```text
+Consolidamento arboreo
+```
+
+Testo:
+
+```text
+Soluzioni mirate per sostenere parti delicate dell’albero e ridurre il rischio di cedimenti.
+```
+
+CTA:
+
+```text
+Scopri il servizio
+```
+
+Link:
+
+```text
+/servizi/consolidamento-arboreo
+```
+
+#### Card 5 – Gestione delle emergenze
+
+Titolo:
+
+```text
+Gestione delle emergenze
+```
+
+Testo:
+
+```text
+Interventi su alberi o rami danneggiati, instabili o compromessi da maltempo, vento, neve o cedimenti improvvisi.
+```
+
+CTA:
+
+```text
+Scopri il servizio
+```
+
+Link:
+
+```text
+/servizi/gestione-emergenze-alberi
+```
+
+#### Card 6 – Lavori in fune / Tree climbing
+
+Titolo:
+
+```text
+Lavori in fune e tree climbing
+```
+
+Testo:
+
+```text
+Accesso su fune per intervenire con precisione anche dove piattaforme e mezzi meccanici non possono arrivare.
+```
+
+CTA:
+
+```text
+Scopri il servizio
+```
+
+Link:
+
+```text
+/servizi/lavori-in-fune-tree-climbing
+```
+
+---
+
+### Sezione: perché scegliere Salvatori Federico
+
+H2:
+
+```text
+Perché scegliere Salvatori Federico
+```
+
+#### 1. Approccio tecnico e rispettoso
+
+```text
+Ogni intervento parte dall’osservazione dell’albero e del contesto. L’obiettivo non è tagliare, ma gestire in modo corretto e sostenibile.
+```
+
+#### 2. Sicurezza prima di tutto
+
+```text
+Potature, abbattimenti e lavori in fune vengono pianificati per proteggere persone, edifici, veicoli e infrastrutture.
+```
+
+#### 3. Formazione continua
+
+```text
+Aggiornamento costante su tecniche, attrezzature e conoscenze scientifiche per la gestione dell’albero.
+```
+
+#### 4. Interventi anche complessi
+
+```text
+Grazie ai lavori in fune è possibile operare anche in spazi ristretti, giardini difficili, aree collinari o contesti urbani complessi.
+```
+
+#### 5. Copertura Umbria e Marche
+
+```text
+Interventi nelle province di Terni, Perugia, Ascoli Piceno, Fermo, Macerata e Ancona.
+```
+
+---
+
+### Sezione: formazione
+
+H2:
+
+```text
+Formazione e aggiornamento professionale
+```
+
+Testo:
+
+```text
+La gestione degli alberi richiede preparazione tecnica, esperienza sul campo e aggiornamento continuo. La mia formazione comprende corsi specifici su potatura, accesso su fune, uso della motosega e manutenzione del verde.
+```
+
+Elenco sintetico:
+
+```text
+- Corso professionale di potatura degli alberi ornamentali – Alberi Maestri
+- Sistemi di accesso e posizionamento mediante funi su alberi – Alberi Maestri
+- Motosega e corretto utilizzo in arboricoltura – Alberi Maestri
+- Manutentore del verde – Accademia Srl
+```
+
+CTA:
+
+```text
+Vedi formazione completa
+```
+
+Link:
+
+```text
+/formazione-e-attestati
+```
+
+---
+
+### Sezione: area operativa
+
+H2:
+
+```text
+Dove intervengo
+```
+
+Testo:
+
+```text
+Opero principalmente in Umbria e Marche, con interventi su alberi ornamentali, alberi ad alto fusto, giardini privati, aree condominiali, spazi aziendali e aree verdi.
+```
+
+Elenco aree:
+
+```text
+- Terni e provincia
+- Perugia e provincia
+- Ascoli Piceno e provincia
+- Fermo e provincia
+- Macerata e provincia
+- Ancona e provincia
+```
+
+CTA:
+
+```text
+Verifica la copertura nella tua zona
+```
+
+Link:
+
+```text
+/contatti
+```
+
+---
+
+### Sezione: blog preview
+
+H2:
+
+```text
+Guide e consigli sulla cura degli alberi
+```
+
+Testo:
+
+```text
+Approfondimenti su potatura, stabilità degli alberi, abbattimenti, tree climbing, emergenze da maltempo e buone pratiche di gestione del verde.
+```
+
+CTA:
+
+```text
+Vai al blog
+```
+
+---
+
+### Sezione contatti finale
+
+H2:
+
+```text
+Hai bisogno di un intervento o di una valutazione?
+```
+
+Testo:
+
+```text
+Contattami per un sopralluogo o per una consulenza su potatura, abbattimento, stabilità o messa in sicurezza di un albero.
+```
+
+CTA:
+
+```text
+Richiedi informazioni
+```
+
+Telefono:
+
+```text
++39 349 542 3828
+```
+
+Email:
+
+```text
+salvatori.federico97@libero.it
+```
+
+---
+
+## 7. Pagina Chi sono
+
+### URL
+`/chi-sono`
+
+### Titolo SEO
+```text
+Chi sono | Salvatori Federico – Arboricoltura e Potatura
+```
+
+### Meta description
+```text
+Conosci Salvatori Federico: servizi di arboricoltura, potatura, lavori in fune e gestione alberi in Umbria e Marche con formazione, sicurezza e rispetto.
+```
+
+### H1
+```text
+Chi sono
+```
+
+### Testo principale
+
+```text
+Dopo una laurea triennale in Economia del Turismo e una laurea magistrale in Economia & Management, ho deciso di mettere in pausa il percorso della consulenza per capire quale fosse davvero la mia strada.
+
+Il forte interesse per le tematiche ambientali e per il lavoro all’aria aperta mi ha portato ad avvicinarmi al mondo del verde. Da lì è nata una passione sempre più profonda per gli alberi, che mi ha spinto a intraprendere un percorso di formazione specifico presso Alberi Maestri, scuola con sede ad Assisi che mette al centro della propria didattica uno degli organismi più complessi e affascinanti del pianeta: l’albero.
+
+Nel 2026 ho avviato la mia attività: una realtà in continua evoluzione, fondata sull’aggiornamento costante delle tecniche, delle attrezzature e delle conoscenze scientifiche necessarie per una gestione corretta dell’albero in tutte le sue fasi.
+```
+
+### Obiettivi
+
+H2:
+
+```text
+I miei obiettivi
+```
+
+Testo:
+
+```text
+Il primo obiettivo è diffondere una cultura di gestione sostenibile delle piante, facendo comprendere le buone pratiche di cura, manutenzione e conservazione degli alberi.
+
+Il secondo è offrire un servizio integrato e di qualità, capace di trovare il miglior equilibrio tra le esigenze dell’albero e quelle del committente: sicurezza, fruibilità degli spazi, valore estetico, sostenibilità e rispetto della pianta.
+```
+
+### Collaborazioni
+
+H2:
+
+```text
+Una rete di professionisti
+```
+
+Testo:
+
+```text
+Amo circondarmi di professionisti che, come me, mettono passione, precisione e professionalità al centro del proprio lavoro.
+
+Persone preparate, affidabili e attente ai dettagli, con cui condivido un modo di operare basato sulla cura dell’albero, sull’organizzazione e soprattutto sulla sicurezza.
+
+Lavorare insieme è prima di tutto un piacere, fatto di fiducia, confronto e passione. Ogni intervento è un’occasione per mettere in campo competenze diverse e imparare gli uni dagli altri, perché crescere professionalmente significa anche crescere insieme.
+```
+
+### CTA
+
+```text
+Vuoi saperne di più o richiedere un sopralluogo?
+```
+
+Button:
+
+```text
+Contattami
+```
+
+---
+
+## 8. Pagina Servizi – panoramica
+
+### URL
+`/servizi`
+
+### Titolo SEO
+```text
+Servizi di Arboricoltura, Potatura e Abbattimento Alberi | Salvatori Federico
+```
+
+### Meta description
+```text
+Potatura alberi, abbattimento controllato, valutazione di stabilità, consolidamento arboreo, emergenze e lavori in fune in Umbria e Marche.
+```
+
+### H1
+```text
+Servizi di arboricoltura
+```
+
+### Intro
+
+```text
+Ogni albero richiede un intervento diverso in base a specie, età, struttura, stato sanitario e contesto circostante. Per questo i servizi vengono sempre valutati dopo un’attenta analisi della pianta e dell’area.
+
+Di seguito trovi i principali servizi offerti.
+```
+
+### Elenco servizi con link
+- Potatura alberi → `/servizi/potatura-alberi`
+- Abbattimento alberi → `/servizi/abbattimento-alberi`
+- Valutazione di stabilità → `/servizi/valutazione-stabilita-alberi`
+- Consolidamento arboreo → `/servizi/consolidamento-arboreo`
+- Gestione emergenze → `/servizi/gestione-emergenze-alberi`
+- Lavori in fune e tree climbing → `/servizi/lavori-in-fune-tree-climbing`
+
+### CTA
+
+```text
+Non sai quale servizio ti serve? Contattami e valutiamo insieme la soluzione più adatta.
+```
+
+---
+
+## 9. Pagina servizio: Potatura alberi
+
+### URL
+`/servizi/potatura-alberi`
+
+### Titolo SEO
+```text
+Potatura Alberi Professionale in Umbria e Marche | Salvatori Federico
+```
+
+### Meta description
+```text
+Potatura alberi ornamentali e ad alto fusto con approccio tecnico e rispettoso della pianta. Interventi anche in tree climbing in Umbria e Marche.
+```
+
+### H1
+```text
+Potatura degli alberi: interventi mirati, sicuri e rispettosi della pianta
+```
+
+### Intro
+
+```text
+Potare non significa semplicemente tagliare.
+
+Un albero non ha bisogno della potatura per vivere. In natura cresce, sviluppa la propria chioma e porta avanti il suo ciclo vitale senza l’intervento dell’uomo.
+
+La potatura nasce invece dalla necessità di coniugare la presenza dell’albero con il contesto in cui vive: abitazioni, strade, giardini, persone e strutture che si trovano sotto o nelle immediate vicinanze della sua chioma.
+
+Quando si rende necessario intervenire, l’obiettivo non è modificare l’albero a nostro piacimento, ma trovare un equilibrio tra le esigenze della pianta e quelle di sicurezza, ordine e fruibilità dello spazio circostante.
+
+Una buona potatura parte dall’osservazione e dalla conoscenza dell’albero e si traduce in interventi mirati, limitando quanto più possibile la quantità di legno asportato.
+```
+
+### H2: Ogni taglio deve avere una ragione
+
+```text
+Prima di intervenire è fondamentale chiedersi se sia davvero necessario potare, perché farlo e quale sia il modo migliore per farlo.
+
+L’obiettivo non è ottenere un albero semplicemente “più ordinato”, ma preservarne il più possibile salute, struttura e naturale sviluppo, rendendolo al tempo stesso compatibile con il luogo in cui vive.
+
+Potare bene significa sapere anche quando non potare.
+```
+
+### H2: Un gesto antico, una tecnica moderna
+
+```text
+La potatura accompagna l’uomo da migliaia di anni. Già nelle antiche civiltà venivano praticati interventi sugli alberi da frutto e sulle piante utilizzate per ottenere legname, combustibile e altri materiali.
+
+Nel corso dei secoli le tecniche si sono evolute insieme alle conoscenze sulla biologia degli alberi. Dalla potatura legata principalmente alla produzione agricola e forestale si è arrivati all’arboricoltura moderna, che considera l’albero come un organismo vivente e tiene conto della sua fisiologia, della sua struttura e delle sue modalità naturali di crescita.
+
+Oggi potare correttamente significa conoscere come e perché un albero reagisce a un taglio, scegliendo l’intervento più appropriato e riducendo al minimo le conseguenze negative sulla pianta.
+```
+
+### H2: Le diverse tipologie di potatura
+
+```text
+Non tutti gli interventi hanno lo stesso scopo. La tipologia di potatura viene scelta in funzione delle caratteristiche dell’albero, della sua età, del suo stato vegetativo e delle necessità del contesto.
+```
+
+#### Rimonda del secco
+
+```text
+Consiste nella rimozione di rami secchi, morenti, spezzati o chiaramente compromessi, soprattutto quando possono rappresentare un rischio per persone o cose.
+
+È un intervento utile anche per migliorare l’aspetto estetico della chioma e ridurre la caduta accidentale di rami.
+```
+
+#### Potatura di mantenimento
+
+```text
+Intervento finalizzato a mantenere nel tempo una chioma equilibrata e compatibile con il contesto, attraverso la selezione dei rami che è opportuno rimuovere.
+```
+
+#### Potatura di riduzione
+
+```text
+Viene eseguita quando è necessario ridurre parte delle dimensioni della chioma, cercando di mantenere la struttura e la naturale architettura dell’albero.
+
+È una tipologia di intervento che richiede particolare attenzione, perché una riduzione troppo drastica può compromettere la salute e la stabilità della pianta.
+```
+
+#### Potatura di formazione
+
+```text
+Riguarda principalmente gli alberi giovani e serve ad accompagnarne lo sviluppo, favorendo una struttura equilibrata e adatta al luogo in cui cresceranno.
+
+Una corretta formazione nei primi anni può ridurre notevolmente la necessità di interventi drastici in età adulta.
+```
+
+#### Potatura di rialzo
+
+```text
+Spesso definita dagli operatori del settore come “spalcatura”, consiste nella rimozione o nell’accorciamento di alcuni rami più bassi della chioma quando è necessario creare spazio per il passaggio di persone, veicoli o altre attività.
+```
+
+### H2: Come si può potare un albero
+
+```text
+La modalità con cui viene eseguita la potatura è importante quanto la scelta dell’intervento. Non esiste un’unica tecnica valida per ogni albero.
+```
+
+#### Taglio al collare
+
+```text
+È il taglio eseguito in prossimità dell’inserzione del ramo, rispettando il collare e i tessuti che permettono all’albero di compartimentare la ferita.
+```
+
+#### Taglio di ritorno
+
+```text
+Consiste nell’accorciare un ramo fino a una laterale sufficientemente sviluppata, che diventa la nuova estremità del ramo.
+
+È una tecnica fondamentale per ridurre o modificare una porzione della chioma mantenendone, per quanto possibile, la naturale struttura.
+```
+
+#### Diradamento
+
+```text
+Prevede la rimozione selettiva di alcuni rami per ridurre la densità della chioma, evitando di intervenire indiscriminatamente sulla sua superficie.
+```
+
+#### Potatura in tree climbing
+
+```text
+Quando le condizioni lo richiedono, la potatura può essere eseguita direttamente all’interno della chioma mediante tecniche di arrampicata su fune.
+
+Questo permette di raggiungere con precisione i rami da trattare e di effettuare tagli mirati anche su alberi di grandi dimensioni o in luoghi difficilmente accessibili.
+```
+
+### H2: Quando potare un albero
+
+```text
+Il periodo di potatura dipende da specie, obiettivo dell’intervento, stato vegetativo della pianta e contesto ambientale.
+
+In generale:
+- la rimozione del secco può essere eseguita in diversi periodi dell’anno;
+- gli interventi strutturali vanno valutati con attenzione;
+- è importante considerare eventuali fasi di nidificazione dell’avifauna;
+- alcune specie richiedono tempistiche specifiche per ridurre stress, pianto linfatico o problemi fitosanitari.
+
+Prima di intervenire è sempre consigliabile una valutazione tecnica.
+```
+
+### H2: Errori da evitare
+
+```text
+Una potatura scorretta può creare danni duraturi all’albero e aumentare i costi di gestione futuri.
+
+Tra gli errori più comuni:
+- capitozzatura eccessiva;
+- rimozione di grandi porzioni di chioma in un solo intervento;
+- tagli eseguiti senza rispettare il collare del ramo;
+- potature troppo drastiche;
+- interventi eseguiti nel periodo sbagliato;
+- mancanza di valutazione della stabilità della pianta.
+```
+
+### H2: FAQ potatura alberi
+
+#### Ogni quanto va potato un albero?
+
+```text
+Dipende da specie, età, forma, contesto e obiettivo. In molti casi è preferibile intervenire con piccoli tagli programmati piuttosto che con interventi drastici occasionali.
+```
+
+#### Potare fa bene all’albero?
+
+```text
+La potatura è utile quando è necessaria e ben eseguita. Se non serve, è meglio non intervenire. L’albero in natura non ha bisogno di potatura per vivere.
+```
+
+#### È possibile potare alberi ad alto fusto?
+
+```text
+Sì, quando necessario e con tecniche adeguate, incluso il tree climbing, che consente di operare in sicurezza anche in chioma.
+```
+
+#### Serve un permesso per potare un albero?
+
+```text
+Dipende dal comune, dalla tipologia di albero, da eventuali vincoli paesaggistici o regolamenti locali. È sempre meglio informarsi prima di intervenire.
+```
+
+### CTA finale
+
+H2:
+
+```text
+Hai un albero da potare?
+```
+
+Testo:
+
+```text
+Contattami per valutare insieme l’intervento più adatto, rispettando la pianta e mettendo in sicurezza l’area.
+```
+
+Button:
+
+```text
+Richiedi un sopralluogo
+```
+
+---
+
+## 10. Pagina servizio: Abbattimento alberi
+
+### URL
+`/servizi/abbattimento-alberi`
+
+### Titolo SEO
+```text
+Abbattimento Alberi Alto Fusto in Umbria e Marche | Salvatori Federico
+```
+
+### Meta description
+```text
+Abbattimento alberi ad alto fusto controllato e sicuro, anche in tree climbing. Valutazione preventiva e rispetto del contesto in Umbria e Marche.
+```
+
+### H1
+```text
+Abbattimento alberi: quando è necessario e come farlo in sicurezza
+```
+
+### Intro
+
+```text
+L’abbattimento è, quando possibile, l’ultima possibilità.
+
+La conservazione dell’albero rappresenta il principio da cui partire, perché un albero adulto è un elemento di grande valore ambientale, paesaggistico ed economico e non può essere considerato semplicemente sostituibile.
+
+Esistono tuttavia situazioni in cui le condizioni dell’albero, il suo stato di salute o la presenza di difetti strutturali importanti rendono necessaria la sua rimozione.
+
+In questi casi, l’abbattimento ha l’obiettivo di tutelare persone, edifici, veicoli, linee di servizio e tutto ciò che si trova nell’area interessata dall’albero.
+```
+
+### H2: Prima di abbattere: valutare e conservare
+
+```text
+La decisione di abbattere dovrebbe essere preceduta, quando le condizioni lo consentono, da un’attenta valutazione dell’albero e del contesto in cui si trova.
+
+L’obiettivo è comprendere se esistano possibilità di conservazione e, qualora queste non siano sufficienti a garantire adeguate condizioni di sicurezza, individuare la soluzione più appropriata.
+
+Quando possibile, prima di arrivare all’abbattimento vengono considerate alternative come potature mirate, consolidamenti, monitoraggi o riduzioni selettive della chioma.
+```
+
+### H2: Quando l’abbattimento diventa necessario
+
+```text
+Un albero può arrivare a una condizione nella quale la sua conservazione non è più compatibile con il livello di sicurezza richiesto dal contesto.
+
+L’abbattimento può essere necessario in presenza di:
+- cedimenti già avvenuti;
+- gravi compromissioni dell’apparato radicale;
+- difetti strutturali importanti;
+- carie estese;
+- danni conseguenti a eventi meteorologici;
+- inclinazioni pericolose;
+- instabilità evidente;
+- rischio concreto per persone, edifici o infrastrutture.
+```
+
+### H2: La valutazione del contesto
+
+```text
+La valutazione non riguarda soltanto l’albero, ma anche ciò che lo circonda: abitazioni, strade, automobili, strutture, linee elettriche, recinzioni e soprattutto persone.
+
+Un abbattimento professionale richiede pianificazione, analisi degli spazi di caduta, gestione dei materiali, scelta delle attrezzature e misure di sicurezza adeguate.
+```
+
+### H2: Modalità di abbattimento
+
+```text
+Non esiste un’unica modalità di abbattimento. La tecnica viene scelta in funzione delle dimensioni e delle caratteristiche dell’albero, delle sue condizioni, dello spazio disponibile e di ciò che si trova nelle immediate vicinanze.
+```
+
+#### Abbattimento al piede
+
+```text
+Quando lo spazio disponibile lo permette e l’area di caduta può essere mantenuta libera, l’albero può essere abbattuto dalla base e lasciato cadere al suolo in un’unica soluzione.
+
+È la modalità più diretta, ma può essere utilizzata soltanto quando le condizioni dell’area e dell’albero consentono di gestire in sicurezza la direzione e lo spazio necessario alla caduta.
+```
+
+#### Abbattimento con piattaforma
+
+```text
+Quando le condizioni del sito lo consentono, una piattaforma di lavoro elevabile può facilitare l’accesso alla chioma e rendere più efficienti le operazioni di smontaggio.
+
+L’operatore può lavorare dalla piattaforma procedendo progressivamente alla rimozione di rami e sezioni del fusto.
+
+La scelta di utilizzare una piattaforma dipende dalle caratteristiche dell’area di intervento, dagli spazi di manovra e dalla possibilità di raggiungere in sicurezza la posizione di lavoro.
+```
+
+#### Abbattimento in tree climbing
+
+```text
+Quando l’accesso con una piattaforma non è possibile o non risulta conveniente, l’intervento può essere eseguito mediante tecniche di tree climbing.
+
+L’operatore raggiunge la chioma utilizzando sistemi di accesso e posizionamento su fune e procede alla rimozione dell’albero per sezioni, operando direttamente dalla pianta.
+
+Questa tecnica permette di intervenire anche in spazi ristretti o difficilmente accessibili, dove è necessario ridurre al minimo l’ingombro delle operazioni.
+```
+
+#### Abbattimento controllato
+
+```text
+Quando l’albero si trova in prossimità di strutture, strade, recinzioni o altri elementi che devono essere protetti, non è possibile semplicemente lasciare cadere le porzioni rimosse.
+
+In questi casi si procede con un abbattimento controllato: rami e sezioni del fusto vengono tagliati singolarmente e, quando necessario, calati a terra mediante sistemi di movimentazione e funi.
+
+L’abbattimento controllato può essere eseguito sia in tree climbing sia dalla piattaforma, in funzione delle caratteristiche dell’intervento.
+```
+
+### H2: Dopo l’abbattimento
+
+```text
+Dopo l’abbattimento possono essere necessarie operazioni di depezzatura, rimozione del materiale, pulizia dell’area e valutazione di eventuali interventi successivi.
+
+Se richiesto, è possibile valutare anche la gestione del ceppo residuo o soluzioni per il ripristino dell’area.
+```
+
+### H2: FAQ abbattimento alberi
+
+#### Quando è necessario abbattere un albero?
+
+```text
+Quando l’albero presenta condizioni di rischio non gestibili con interventi conservativi e può rappresentare un pericolo concreto per persone o cose.
+```
+
+#### È meglio abbattere o consolidare?
+
+```text
+Dipende dallo stato dell’albero e dal contesto. Se possibile, si valuta prima la conservazione tramite potatura, consolidamento o monitoraggio.
+```
+
+#### È possibile abbattere un albero vicino a una casa?
+
+```text
+Sì, con tecniche di abbattimento controllato e pianificazione adeguata, rimuovendo la pianta per sezioni quando necessario.
+```
+
+#### Serve un permesso per abbattere un albero?
+
+```text
+In molti casi sì. Dipende dal regolamento comunale, da vincoli paesaggistici, dalla specie e dalle dimensioni dell’albero. È importante verificare prima di intervenire.
+```
+
+### CTA finale
+
+H2:
+
+```text
+Devi valutare o abbattere un albero?
+```
+
+Testo:
+
+```text
+Richiedi una valutazione: analizziamo insieme le condizioni della pianta e la soluzione più sicura.
+```
+
+Button:
+
+```text
+Richiedi un sopralluogo
+```
+
+---
+
+## 11. Pagina servizio: Valutazione di stabilità
+
+### URL
+`/servizi/valutazione-stabilita-alberi`
+
+### Titolo SEO
+```text
+Valutazione Stabilità Alberi in Umbria e Marche | Salvatori Federico
+```
+
+### Meta description
+```text
+Valutazione stabilità alberi per individuare criticità, rischi e interventi di conservazione. Analisi tecniche e rispetto della pianta in Umbria e Marche.
+```
+
+### H1
+```text
+Valutazione di stabilità degli alberi: capire un albero per proteggerlo
+```
+
+### Intro
+
+```text
+Un albero può presentare cavità, branche secche, inclinazioni o altri difetti senza che questo significhi necessariamente che debba essere abbattuto.
+
+La valutazione di stabilità serve a capire realmente le condizioni dell’albero e a individuare il modo migliore per gestirlo, mettendo al centro la sua tutela e la sicurezza delle persone.
+```
+
+### H2: Sicurezza e conservazione
+
+```text
+Analizziamo l’albero nel suo insieme e il contesto in cui cresce, valutando struttura, chioma, tronco, colletto, apparato radicale e possibili criticità.
+
+Quando necessario, è possibile approfondire l’analisi attraverso specifiche metodologie diagnostiche o valutazioni strumentali.
+
+L’obiettivo è semplice: ridurre i rischi e, quando le condizioni lo permettono, conservare l’albero nel tempo.
+```
+
+### H2: Non cerchiamo un motivo per abbatterlo
+
+```text
+Crediamo che l’abbattimento debba essere l’ultima scelta, quando non esistono alternative sicure per mantenere l’albero.
+
+Per questo ogni valutazione porta a una soluzione proporzionata alla situazione: monitoraggio, interventi di manutenzione, approfondimenti diagnostici, consolidamento, potatura mirata o, solo quando realmente necessario, abbattimento.
+```
+
+### H2: Quando richiedere una valutazione di stabilità
+
+```text
+È consigliabile richiedere una valutazione quando:
+- l’albero presenta inclinazioni recenti o progressive;
+- sono visibili cavità, funghi, lesioni o legno degradato;
+- ci sono rami secchi, spezzati o sospesi;
+- l’albero ha subito danni da vento, neve o fulmini;
+- si trovano radici esposte, sollevate o danneggiate;
+- si notano crepe nel terreno vicino al colletto;
+- l’albero si trova vicino a case, strade, parcheggi o aree frequentate;
+- si vuole verificare la pianta prima di interventi edilizi o scavi.
+```
+
+### H2: Cosa succede dopo la valutazione
+
+```text
+Dopo l’analisi viene individuata la soluzione più adatta al caso specifico.
+
+A seconda delle condizioni riscontrate, si può proporre:
+- nessun intervento immediato, con monitoraggio periodico;
+- potatura di sicurezza o rimonda del secco;
+- consolidamento di branche o biforcazioni;
+- approfondimenti diagnostici;
+- abbattimento, solo se necessario e non altrimenti gestibile.
+```
+
+### H2: Perché è importante
+
+```text
+Conoscere meglio un albero significa poterlo curare meglio.
+
+Una valutazione corretta consente di evitare interventi inutili, prevenire situazioni pericolose e gestire il patrimonio arboreo in modo responsabile.
+```
+
+### CTA finale
+
+H2:
+
+```text
+Hai dubbi sulle condizioni di un albero?
+```
+
+Testo:
+
+```text
+Possiamo aiutarti a capire quale sia la soluzione più adatta per proteggerlo e gestirlo nel tempo.
+```
+
+Button:
+
+```text
+Richiedi una valutazione
+```
+
+---
+
+## 12. Pagina servizio: Consolidamento arboreo
+
+### URL
+`/servizi/consolidamento-arboreo`
+
+### Titolo SEO
+```text
+Consolidamento Arboreo in Umbria e Marche | Salvatori Federico
+```
+
+### Meta description
+```text
+Consolidamento alberi e sostegno branche per ridurre il rischio di cedimenti, conservando la pianta quando possibile. Interventi professionali e mirati.
+```
+
+### H1
+```text
+Consolidamento arboreo: sostenere l’albero senza rinunciare alla sua conservazione
+```
+
+### Intro
+
+```text
+Quando un albero presenta una struttura fragile o alcune parti della chioma sono soggette a un maggiore rischio di cedimento, non sempre è necessario intervenire con potature drastiche o abbattimenti.
+
+Il consolidamento arboreo permette di sostenere le parti più delicate della pianta e ridurre il rischio di rotture, aiutando l’albero a mantenere la propria struttura e il proprio sviluppo naturale.
+```
+
+### H2: Un intervento pensato per proteggere
+
+```text
+Ogni albero viene valutato singolarmente per individuare i punti che necessitano di maggiore sostegno.
+
+Attraverso sistemi di consolidamento specifici possiamo ridurre le sollecitazioni sulle branche e sulle biforcazioni più vulnerabili, contribuendo a preservare la struttura dell’albero e a limitare il rischio di cedimenti.
+
+L’intervento viene progettato in funzione delle caratteristiche della pianta, della sua struttura e del contesto in cui si trova.
+```
+
+### H2: Quando è utile il consolidamento
+
+```text
+Il consolidamento può essere utile in presenza di:
+- branche molto sviluppate;
+- biforcazioni strutturalmente deboli;
+- rami pesanti sopra edifici, strade o aree di passaggio;
+- alberi di pregio che si desidera conservare;
+- danni parziali causati da vento o neve;
+- necessità di ridurre il rischio senza abbattere.
+```
+
+### H2: Conservare invece di tagliare
+
+```text
+Il consolidamento rappresenta spesso una valida alternativa agli interventi più invasivi.
+
+L’obiettivo non è modificare l’albero, ma aiutarlo a mantenere la propria struttura nel modo più naturale possibile.
+
+Quando le condizioni lo consentono, questo permette di conservare esemplari importanti, mantenendone nel tempo il valore estetico, ambientale e paesaggistico.
+```
+
+### H2: La soluzione giusta per ogni albero
+
+```text
+Non esiste un sistema di consolidamento uguale per tutti.
+
+La scelta del tipo di intervento e dei sistemi di sostegno viene effettuata sulla base delle caratteristiche specifiche dell’albero e delle criticità individuate.
+
+Più conosciamo l’albero, più possiamo intervenire in modo mirato e rispettoso.
+```
+
+### CTA finale
+
+H2:
+
+```text
+Hai un albero con branche sviluppate o una struttura che ti preoccupa?
+```
+
+Testo:
+
+```text
+Valutiamo insieme la soluzione più adatta per metterlo in sicurezza e conservarlo nel tempo.
+```
+
+Button:
+
+```text
+Richiedi una consulenza
+```
+
+---
+
+## 13. Pagina servizio: Gestione delle emergenze
+
+### URL
+`/servizi/gestione-emergenze-alberi`
+
+### Titolo SEO
+```text
+Gestione Emergenze Alberi e Maltempo | Salvatori Federico
+```
+
+### Meta description
+```text
+Interventi urgenti su alberi e rami danneggiati da vento, neve o cedimenti improvvisi. Messa in sicurezza rapida e professionale in Umbria e Marche.
+```
+
+### H1
+```text
+Gestione delle emergenze arboree
+```
+
+### Intro
+
+```text
+Eventi atmosferici intensi, vento, neve o cedimenti improvvisi possono compromettere la stabilità di un albero e creare situazioni di pericolo.
+
+In questi casi è importante intervenire rapidamente, ma senza agire d’impulso.
+
+Prima la sicurezza, poi l’albero.
+```
+
+### H2: Cosa facciamo in emergenza
+
+```text
+Valutiamo la situazione per mettere in sicurezza l’area e individuare le parti dell’albero che presentano un rischio immediato.
+
+Branche spezzate, alberi inclinati o parzialmente sradicati vengono gestiti con interventi mirati, cercando di ridurre il pericolo e, quando possibile, salvaguardare ciò che può essere conservato.
+```
+
+### H2: Quando chiamare un intervento urgente
+
+```text
+È consigliabile richiedere un intervento quando:
+- un ramo è spezzato e sospeso;
+- una branca si è appoggiata su un edificio o una recinzione;
+- un albero è inclinato dopo vento o neve;
+- ci sono radici sollevate o terreno smosso;
+- un albero ostacola l’accesso a un’abitazione;
+- c’è rischio di caduta su persone, veicoli o strutture.
+```
+
+### H2: Cosa fare nell’attesa
+
+```text
+In attesa dell’intervento:
+- non sostare sotto l’albero;
+- delimita l’area se possibile;
+- evita interventi improvvisati con scale o motosega;
+- segnala eventuali danni a strutture, linee elettriche o vie di passaggio;
+- se il pericolo è immediato, contatta i numeri di emergenza competenti.
+```
+
+### H2: Interventi mirati
+
+```text
+Ogni emergenza è diversa e richiede una valutazione specifica.
+
+L’obiettivo è intervenire sulle criticità reali, evitando per quanto possibile tagli indiscriminati o abbattimenti non necessari.
+
+Anche in emergenza, la tutela dell’albero rimane una delle nostre priorità.
+```
+
+### H2: Dopo l’emergenza
+
+```text
+Un evento improvviso può lasciare conseguenze che non sono sempre evidenti nell’immediato.
+
+Per questo, quando necessario, consigliamo un controllo successivo dell’albero per verificarne le condizioni e programmare eventuali interventi di cura, consolidamento o monitoraggio.
+
+Gestire un’emergenza significa mettere in sicurezza oggi, ma anche prendersi cura dell’albero per il futuro.
+```
+
+### CTA finale
+
+H2:
+
+```text
+Hai un albero danneggiato o pericolante?
+```
+
+Testo:
+
+```text
+Contattami subito per valutare l’intervento più urgente e sicuro.
+```
+
+Button:
+
+```text
+Chiama ora
+```
+
+Button secondario:
+
+```text
+Scrivi su WhatsApp
+```
+
+---
+
+## 14. Pagina servizio: Lavori in fune / Tree climbing
+
+### URL
+`/servizi/lavori-in-fune-tree-climbing`
+
+### Titolo SEO
+```text
+Lavori in Fune e Tree Climbing in Umbria e Marche | Salvatori Federico
+```
+
+### Meta description
+```text
+Lavori in fune e tree climbing per potature, abbattimenti e interventi su alberi in spazi difficili. Precisione e sicurezza senza mezzi invasivi.
+```
+
+### H1
+```text
+Lavori in fune e tree climbing: intervenire dove gli altri mezzi non arrivano
+```
+
+### Intro
+
+```text
+I lavori in fune permettono di raggiungere la chioma degli alberi utilizzando sistemi di accesso e posizionamento su fune.
+
+Questa tecnica è particolarmente utile quando non è possibile impiegare piattaforme aeree, gru o altri mezzi meccanici, oppure quando si vuole ridurre l’impatto sul suolo e sul giardino circostante.
+```
+
+### H2: Quando usare il tree climbing
+
+```text
+Il tree climbing è indicato per:
+- alberi ad alto fusto;
+- giardini con accesso difficile;
+- aree strette tra edifici;
+- pendii, scarpate o zone impervie;
+- potature di precisione;
+- abbattimenti controllati per sezioni;
+- rimozione di rami secchi o pericolanti;
+- interventi dove è importante limitare il calpestio del suolo.
+```
+
+### H2: Vantaggi dei lavori in fune
+
+```text
+- Maggiore precisione all’interno della chioma
+- Accesso a zone difficili senza mezzi ingombranti
+- Ridotto impatto sul terreno e sulle radici
+- Possibilità di operare su alberi di grandi dimensioni
+- Minore disturbo per l’area circostante
+- Soluzione efficace in contesti urbani complessi
+```
+
+### H2: Sicurezza e formazione
+
+```text
+Operare su fune richiede formazione specifica, attrezzature certificate e procedure di sicurezza rigorose.
+
+Ogni intervento viene pianificato valutando la pianta, il contesto, i punti di ancoraggio e le modalità di discesa dei materiali.
+```
+
+### CTA finale
+
+H2:
+
+```text
+Hai un albero difficile da raggiungere?
+```
+
+Testo:
+
+```text
+Valutiamo insieme se il lavoro in fune è la soluzione più adatta.
+```
+
+Button:
+
+```text
+Richiedi un sopralluogo
+```
+
+---
+
+## 15. Pagina Formazione e attestati
+
+### URL
+`/formazione-e-attestati`
+
+### Titolo SEO
+```text
+Formazione e Attestati | Salvatori Federico Arboricoltura
+```
+
+### Meta description
+```text
+Formazione professionale in arboricoltura, potatura, accesso su fune, motosega e manutenzione del verde. Aggiornamento continuo e sicurezza.
+```
+
+### H1
+```text
+Formazione e aggiornamento professionale
+```
+
+### Testo
+
+```text
+La gestione degli alberi richiede preparazione tecnica, esperienza pratica e aggiornamento continuo. Per questo la formazione è una parte fondamentale del mio lavoro.
+
+Questa sezione raccoglie corsi, attestati e percorsi formativi rilevanti per i servizi offerti. Viene aggiornata nel tempo con nuovi corsi e nuove competenze acquisite.
+```
+
+### Elenco corsi
+
+```text
+- Corso professionale di potatura degli alberi ornamentali, rilasciato dal centro di formazione Alberi Maestri.
+- Attestato “Sistemi di accesso e posizionamento mediante funi su alberi”, rilasciato dal centro di formazione Alberi Maestri.
+- Attestato “Attrezzature di lavoro – Motosega e corretto utilizzo in arboricoltura”, rilasciato dal centro di formazione Alberi Maestri.
+- Corso Manutentore del verde, rilasciato dal centro di formazione Accademia Srl.
+```
+
+### Nota per aggiornamenti futuri
+
+```text
+Ogni nuovo corso, attestato o aggiornamento professionale potrà essere aggiunto in questa sezione con:
+- nome del corso;
+- ente formativo;
+- anno di conseguimento;
+- eventuale immagine o PDF dell’attestato, se pubblicabile.
+```
+
+### CTA
+
+```text
+Vuoi conoscere meglio i servizi legati alla mia formazione?
+```
+
+Button:
+
+```text
+Scopri i servizi
+```
+
+---
+
+## 16. Pagina Area operativa
+
+### URL
+`/area-operativa`
+
+### Titolo SEO
+```text
+Area Operativa Umbria e Marche | Salvatori Federico Arboricoltura
+```
+
+### Meta description
+```text
+Interventi di arboricoltura, potatura e abbattimento alberi a Terni, Perugia, Ascoli Piceno, Fermo, Macerata e Ancona. Richiedi un sopralluogo.
+```
+
+### H1
+```text
+Area operativa: Umbria e Marche
+```
+
+### Intro
+
+```text
+Salvatori Federico offre servizi di arboricoltura, potatura, abbattimento alberi ad alto fusto, valutazione di stabilità, consolidamento arboreo, lavori in fune e gestione delle emergenze in Umbria e Marche.
+
+Le principali province servite sono Terni, Perugia, Ascoli Piceno, Fermo, Macerata e Ancona.
+```
+
+### Sezione Umbria
+
+H2:
+
+```text
+Umbria
+```
+
+#### Terni
+
+```text
+Interventi di arboricoltura a Terni e provincia: potatura alberi ornamentali, abbattimenti controllati, lavori in fune, valutazione di stabilità e gestione emergenze in giardini privati, aree condominiali e spazi verdi.
+```
+
+#### Perugia
+
+```text
+Servizi professionali per la cura degli alberi a Perugia e provincia, con attenzione a contesti urbani, aree verdi, giardini storici, zone collinari e proprietà private.
+```
+
+### Sezione Marche
+
+H2:
+
+```text
+Marche
+```
+
+#### Ascoli Piceno
+
+```text
+Interventi su alberi e aree verdi ad Ascoli Piceno e provincia, con soluzioni mirate per potature, abbattimenti, sicurezza arborea e lavori in fune.
+```
+
+#### Fermo
+
+```text
+Servizi di arboricoltura a Fermo e provincia per la gestione di alberi ornamentali, piante ad alto fusto, giardini e aree a verde.
+```
+
+#### Macerata
+
+```text
+Interventi professionali di potatura, abbattimento controllato, valutazione stabilità e tree climbing a Macerata e provincia.
+```
+
+#### Ancona
+
+```text
+Servizi di arboricoltura ad Ancona e provincia, anche in contesti complessi, aree urbane, zone costiere e proprietà con alberi di grandi dimensioni.
+```
+
+### CTA
+
+```text
+Il tuo Comune rientra tra le zone servite? Contattami per verificare disponibilità e tempi di intervento.
+```
+
+---
+
+## 17. Pagine locali SEO consigliate
+
+Per migliorare il posizionamento locale, creare pagine dedicate alle principali province. Ogni pagina deve contenere contenuti unici, non duplicati.
+
+### 17.1 Pagina Terni
+
+URL:
+
+```text
+/area-operativa/arboricoltura-potatura-alberi-terni
+```
+
+Titolo SEO:
+
+```text
+Arboricoltura e Potatura Alberi a Terni | Salvatori Federico
+```
+
+Meta description:
+
+```text
+Servizi di arboricoltura, potatura, abbattimento alberi e lavori in fune a Terni e provincia. Valutazioni tecniche, sicurezza e rispetto dell’albero.
+```
+
+H1:
+
+```text
+Arboricoltura e potatura alberi a Terni
+```
+
+Testo:
+
+```text
+Offro servizi professionali di arboricoltura a Terni e provincia, con interventi su alberi ornamentali, alberi ad alto fusto e aree verdi pubbliche o private.
+
+I servizi includono potatura sostenibile, abbattimento controllato, valutazione di stabilità, consolidamento arboreo, lavori in fune e gestione delle emergenze dopo maltempo.
+
+Ogni intervento viene valutato in base alla specie, alla struttura dell’albero e al contesto circostante, con attenzione alla sicurezza di persone, edifici e spazi di passaggio.
+```
+
+CTA:
+
+```text
+Richiedi un sopralluogo a Terni
+```
+
+### 17.2 Pagina Perugia
+
+URL:
+
+```text
+/area-operativa/arboricoltura-potatura-alberi-perugia
+```
+
+Titolo SEO:
+
+```text
+Arboricoltura e Potatura Alberi a Perugia | Salvatori Federico
+```
+
+Meta description:
+
+```text
+Potatura alberi, abbattimento controllato e tree climbing a Perugia e provincia. Servizi professionali di arboricoltura per giardini e aree verdi.
+```
+
+H1:
+
+```text
+Arboricoltura e potatura alberi a Perugia
+```
+
+Testo:
+
+```text
+Intervengo a Perugia e provincia con servizi di arboricoltura professionale, potatura alberi, abbattimenti controllati, lavori in fune e valutazioni di stabilità.
+
+Il servizio è pensato per privati, condomini, aziende e proprietari di aree verdi che necessitano di interventi sicuri, pianificati e rispettosi della pianta.
+```
+
+CTA:
+
+```text
+Richiedi una consulenza a Perugia
+```
+
+### 17.3 Pagina Ascoli Piceno
+
+URL:
+
+```text
+/area-operativa/arboricoltura-potatura-alberi-ascoli-piceno
+```
+
+Titolo SEO:
+
+```text
+Arboricoltura e Potatura Alberi ad Ascoli Piceno | Salvatori Federico
+```
+
+Meta description:
+
+```text
+Servizi di arboricoltura ad Ascoli Piceno: potatura, abbattimento alberi, tree climbing, valutazione stabilità ed emergenze arboree.
+```
+
+H1:
+
+```text
+Arboricoltura e potatura alberi ad Ascoli Piceno
+```
+
+Testo:
+
+```text
+Ad Ascoli Piceno e provincia offro servizi di potatura, abbattimento controllato, consolidamento arboreo e lavori in fune per alberi ornamentali e ad alto fusto.
+
+L’obiettivo è garantire sicurezza, tutela dell’albero e interventi adatti al contesto urbano o privato in cui la pianta si trova.
+```
+
+CTA:
+
+```text
+Richiedi un sopralluogo ad Ascoli Piceno
+```
+
+### 17.4 Pagina Fermo
+
+URL:
+
+```text
+/area-operativa/arboricoltura-potatura-alberi-fermo
+```
+
+Titolo SEO:
+
+```text
+Arboricoltura e Potatura Alberi a Fermo | Salvatori Federico
+```
+
+Meta description:
+
+```text
+Potatura alberi, abbattimenti e lavori in fune a Fermo e provincia. Servizi professionali di arboricoltura per sicurezza e cura del verde.
+```
+
+H1:
+
+```text
+Arboricoltura e potatura alberi a Fermo
+```
+
+Testo:
+
+```text
+A Fermo e provincia mi occupo di arboricoltura, potatura, abbattimento alberi, valutazione stabilità e interventi in tree climbing.
+
+Ogni intervento viene pianificato dopo aver osservato l’albero, il contesto e le esigenze del cliente, cercando sempre il miglior equilibrio tra sicurezza e conservazione della pianta.
+```
+
+CTA:
+
+```text
+Richiedi informazioni per Fermo
+```
+
+### 17.5 Pagina Macerata
+
+URL:
+
+```text
+/area-operativa/arboricoltura-potatura-alberi-macerata
+```
+
+Titolo SEO:
+
+```text
+Arboricoltura e Potatura Alberi a Macerata | Salvatori Federico
+```
+
+Meta description:
+
+```text
+Servizi di arboricoltura a Macerata: potatura alberi, abbattimento controllato, tree climbing e valutazione stabilità. Richiedi un sopralluogo.
+```
+
+H1:
+
+```text
+Arboricoltura e potatura alberi a Macerata
+```
+
+Testo:
+
+```text
+Servizi professionali di arboricoltura a Macerata e provincia: potatura, abbattimento alberi ad alto fusto, lavori in fune, consolidamenti e gestione delle emergenze.
+
+Intervengo in giardini privati, aree condominiali, spazi aziendali e aree verdi con attenzione alla sicurezza e alla salute dell’albero.
+```
+
+CTA:
+
+```text
+Richiedi un sopralluogo a Macerata
+```
+
+### 17.6 Pagina Ancona
+
+URL:
+
+```text
+/area-operativa/arboricoltura-potatura-alberi-ancona
+```
+
+Titolo SEO:
+
+```text
+Arboricoltura e Potatura Alberi ad Ancona | Salvatori Federico
+```
+
+Meta description:
+
+```text
+Arboricoltura, potatura e abbattimento alberi ad Ancona e provincia. Interventi anche in tree climbing su alberi ad alto fusto e aree difficili.
+```
+
+H1:
+
+```text
+Arboricoltura e potatura alberi ad Ancona
+```
+
+Testo:
+
+```text
+Ad Ancona e provincia offro servizi di arboricoltura, potatura, abbattimento controllato e lavori in fune, anche su alberi di grandi dimensioni o in aree di difficile accesso.
+
+L’intervento viene sempre valutato in base alla pianta, al contesto e al livello di rischio, privilegiando soluzioni sicure e sostenibili.
+```
+
+CTA:
+
+```text
+Richiedi una consulenza ad Ancona
+```
+
+---
+
+## 18. Pagina Contatti
+
+### URL
+`/contatti`
+
+### Titolo SEO
+```text
+Contatti | Salvatori Federico – Arboricoltura Umbria e Marche
+```
+
+### Meta description
+```text
+Contatta Salvatori Federico per potatura, abbattimento alberi, lavori in fune e valutazione stabilità in Umbria e Marche. Chiama o richiedi un sopralluogo.
+```
+
+### H1
+```text
+Contatti
+```
+
+### Testo
+
+```text
+Hai bisogno di una potatura, di un abbattimento controllato, di una valutazione di stabilità o di un intervento urgente?
+
+Contattami indicando la tua zona e il tipo di intervento richiesto. Sarà mia cura ricontattarti per valutare la soluzione migliore.
+```
+
+### Dati di contatto
+
+```text
+Telefono: +39 349 542 3828
+WhatsApp: +39 349 542 3828
+Email: salvatori.federico97@libero.it
+Area operativa: Umbria e Marche
+```
+
+### Form contatti consigliato
+
+Campi:
+
+- Nome e cognome
+- Telefono
+- Email
+- Comune / Provincia
+- Servizio richiesto
+  - Potatura
+  - Abbattimento
+  - Valutazione stabilità
+  - Consolidamento
+  - Emergenza
+  - Lavori in fune
+  - Altro
+- Descrizione dell’intervento
+- Eventuale foto o allegato
+- Consenso privacy
+
+CTA:
+
+```text
+Invia richiesta
+```
+
+### Testo sotto il form
+
+```text
+Se la richiesta è urgente, ad esempio per alberi danneggiati da maltempo o rami pericolanti, ti consiglio di chiamare direttamente il numero +39 349 542 3828.
+```
+
+---
+
+## 19. Blog
+
+### URL
+`/blog`
+
+### Titolo SEO
+```text
+Blog su Alberi, Potatura e Arboricoltura | Salvatori Federico
+```
+
+### Meta description
+```text
+Guide e consigli su potatura alberi, abbattimenti, stabilità, tree climbing, emergenze maltempo e buone pratiche di arboricoltura.
+```
+
+### H1
+```text
+Blog: alberi, sicurezza e buone pratiche
+```
+
+### Intro blog
+
+```text
+Approfondimenti utili sulla gestione degli alberi: quando potare, come riconoscere un albero a rischio, cosa fare dopo il maltempo, quando è necessario un abbattimento e quali tecniche rispettare per la salute della pianta.
+```
+
+### Categorie consigliate
+- Potatura
+- Abbattimenti
+- Stabilità e sicurezza
+- Tree climbing e lavori in fune
+- Emergenze maltempo
+- Cura e conservazione degli alberi
+- Normative e buone pratiche
+
+---
+
+## 20. Piano editoriale blog consigliato
+
+Pubblicare almeno 1-2 articoli al mese. Ogni articolo dovrebbe rispondere a una domanda reale degli utenti.
+
+### Idee articolo
+
+1. **Potatura alberi: quando intervenire e quali errori evitare**
+2. **Capitozzatura degli alberi: perché è dannosa**
+3. **Quando un albero è pericoloso? I segnali da osservare**
+4. **Valutazione di stabilità: cos’è e perché è importante**
+5. **Abbattimento alberi: quando è davvero necessario**
+6. **Tree climbing: cos’è e quando conviene**
+7. **Cosa fare dopo un danno da vento o neve agli alberi**
+8. **Consolidamento alberi: un’alternativa all’abbattimento**
+9. **Potatura in inverno: vantaggi e limiti**
+10. **Rimonda del secco: perché è utile e quando farla**
+11. **Alberi in giardino: come scegliere e gestire le potature**
+12. **Permessi per potatura e abbattimento alberi: cosa sapere**
+
+---
+
+## 21. Articolo blog campione
+
+### Titolo
+```text
+Potatura alberi: quando intervenire e quali errori evitare
+```
+
+### Slug
+```text
+potatura-alberi-quando-intervenire-errori-da-evitare
+```
+
+### Titolo SEO
+```text
+Potatura Alberi: Quando Intervenire e Quali Errori Evitare
+```
+
+### Meta description
+```text
+Scopri quando è necessario potare un albero, quali tecniche rispettare e quali errori evitare per non danneggiare la pianta. Guida di arboricoltura.
+```
+
+### H1
+```text
+Potatura alberi: quando intervenire e quali errori evitare
+```
+
+### Intro
+
+```text
+La potatura è uno degli interventi più richiesti nella gestione degli alberi, ma anche uno dei più fraintesi. Spesso si pensa che potare significhi semplicemente “mettere in ordine” la chioma. In realtà, una potatura corretta richiede conoscenza della pianta, osservazione del contesto e rispetto della sua fisiologia.
+
+Un albero, in natura, non ha bisogno di potatura per vivere. Cresce, sviluppa la propria chioma e completa il suo ciclo vitale senza intervento umano. La potatura nasce quando l’albero si trova in un contesto antropizzato: vicino a case, strade, giardini, parcheggi o linee di servizio.
+
+L’obiettivo non è quindi modificare l’albero a piacimento, ma trovare un equilibrio tra le sue esigenze e quelle di sicurezza e fruibilità dello spazio.
+```
+
+### H2: Quando è necessario potare un albero?
+
+```text
+Prima di intervenire è importante capire se la potatura è davvero utile. In molti casi, l’intervento migliore è non intervenire.
+
+Una potatura può essere necessaria per:
+- rimuovere rami secchi, spezzati o danneggiati;
+- ridurre il rischio di caduta di branche;
+- contenere lo sviluppo della chioma vicino a edifici o infrastrutture;
+- favorire una struttura più equilibrata negli alberi giovani;
+- migliorare la sicurezza di aree frequentate da persone o veicoli;
+- permettere il passaggio sotto la chioma.
+
+Ogni taglio deve avere una ragione. Se non c’è un obiettivo tecnico chiaro, è meglio evitare interventi inutili.
+```
+
+### H2: Il periodo giusto per potare
+
+```text
+Non esiste un periodo valido per tutte le specie. La scelta dipende dall’albero, dall’obiettivo dell’intervento e dal contesto climatico.
+
+In generale, la rimonda del secco può essere eseguita in diversi momenti dell’anno, mentre interventi più strutturali vanno valutati con attenzione.
+
+Bisogna inoltre considerare:
+- la fase vegetativa della pianta;
+- eventuali periodi di nidificazione dell’avifauna;
+- il rischio di pianto linfatico in alcune specie;
+- la presenza di funghi o patologie;
+- le regole locali e i vincoli paesaggistici.
+```
+
+### H2: Errori da evitare
+
+```text
+Una potatura sbagliata può creare danni anche permanenti. Tra gli errori più comuni troviamo:
+
+- Capitozzatura eccessiva: riduce drasticamente la chioma e indebolisce la pianta.
+- Tagli troppo grandi: ferite ampie possono essere difficili da compartimentare.
+- Rimozione eccessiva di foglie: limita la capacità fotosintetica dell’albero.
+- Tagli eseguiti male: possono danneggiare il collare del ramo o lasciare monconi.
+- Interventi nel periodo sbagliato: possono aumentare stress o problemi fitosanitari.
+- Mancata valutazione della stabilità: potare un albero instabile senza analisi può essere pericoloso.
+```
+
+### H2: Potatura sostenibile: meno tagli, più qualità
+
+```text
+Una buona potatura non si misura dalla quantità di materiale tagliato, ma dalla qualità dell’intervento.
+
+L’approccio sostenibile prevede:
+- osservazione preventiva dell’albero;
+- scelta di tagli mirati;
+- limitazione della quantità di legno asportato;
+- rispetto della struttura naturale;
+- valutazione delle alternative, come monitoraggio o consolidamento.
+```
+
+### H2: Quando rivolgersi a un professionista
+
+```text
+È consigliabile affidarsi a un professionista quando:
+- l’albero è di grandi dimensioni;
+- si trova vicino a edifici, strade o parcheggi;
+- presenta rami secchi o branche pesanti;
+- ha subito danni da vento o neve;
+- mostra segni di instabilità;
+- richiede intervento in tree climbing.
+
+Una valutazione corretta può evitare interventi inutili, ridurre i rischi e preservare la salute dell’albero.
+```
+
+### Conclusione
+
+```text
+Potare un albero non è un semplice taglio. È un intervento tecnico che richiede conoscenza, esperienza e rispetto della pianta.
+
+Prima di potare, chiediti sempre: serve davvero? Qual è l’obiettivo? Qual è il modo migliore per farlo?
+
+Se hai dubbi sulle condizioni del tuo albero, la scelta più sicura è richiedere una valutazione professionale.
+```
+
+### CTA articolo
+
+```text
+Hai bisogno di una potatura o di una valutazione del tuo albero? Contattami per un sopralluogo in Umbria o Marche.
+```
+
+---
+
+## 22. FAQ generali sito
+
+Queste FAQ possono essere inserite in homepage, contatti o pagine servizio.
+
+### Che differenza c’è tra potatura e abbattimento?
+
+```text
+La potatura ha l’obiettivo di gestire la chioma e migliorare la sicurezza della pianta mantenendola in vita. L’abbattimento è la rimozione completa dell’albero e viene preso in considerazione solo quando necessario.
+```
+
+### Intervenite anche su alberi ad alto fusto?
+
+```text
+Sì, anche tramite lavori in fune o tecniche di tree climbing, quando il contesto lo consente.
+```
+
+### Lavorate solo in Umbria?
+
+```text
+No, interveniamo in Umbria e Marche, in particolare nelle province di Terni, Perugia, Ascoli Piceno, Fermo, Macerata e Ancona.
+```
+
+### È possibile richiedere un sopralluogo?
+
+```text
+Sì, il sopralluogo è spesso necessario per valutare le condizioni dell’albero, il contesto e l’intervento più adatto.
+```
+
+### Cosa fare se un albero è caduto o danneggiato dal maltempo?
+
+```text
+Metti in sicurezza l’area, evita di sostare sotto la pianta e contatta un professionista. Se ci sono pericoli immediati, avvisa anche i numeri di emergenza competenti.
+```
+
+---
+
+## 23. SEO tecnica
+
+### Requisiti tecnici richiesti
+- Sito HTTPS attivo.
+- Dominio canonico scelto: `https://salvatorifederico.it` oppure `https://www.salvatorifederico.it`, con redirect coerente.
+- Sitemap XML generata e inviata a Google Search Console.
+- File `robots.txt` corretto.
+- Pagine veloci, immagini ottimizzate in WebP.
+- Layout responsive mobile-first.
+- Breadcrumbs visive e, se possibile, dati strutturati.
+- Link interni coerenti tra servizi, blog e area operativa.
+- Contatti cliccabili: telefono, WhatsApp, email.
+- Form contatti protetto da antispam.
+- Nessun contenuto duplicato tra pagine locali.
+
+### Title tag globali
+Usare schema:
+
+```text
+[Argomento] | Salvatori Federico
+```
+
+oppure:
+
+```text
+[Servizio] [Località] | Salvatori Federico
+```
+
+Esempi:
+
+```text
+Potatura Alberi a Terni | Salvatori Federico
+Abbattimento Alberi ad Ancona | Salvatori Federico
+Valutazione Stabilità Alberi | Salvatori Federico
+```
+
+### Meta description
+- Lunghezza indicativa: 140-160 caratteri.
+- Devono includere servizio, area e invito all’azione.
+- Evitare ripetizioni identiche tra pagine.
+
+### Heading
+- Un solo H1 per pagina.
+- H2 per sezioni principali.
+- H3 per sotto-sezioni.
+- Titoli chiari, naturali, senza keyword stuffing.
+
+### URL consigliate
+```text
+/servizi/potatura-alberi
+/servizi/abbattimento-alberi
+/servizi/valutazione-stabilita-alberi
+/servizi/consolidamento-arboreo
+/servizi/gestione-emergenze-alberi
+/servizi/lavori-in-fune-tree-climbing
+/area-operativa/arboricoltura-potatura-alberi-terni
+/blog/potatura-alberi-quando-intervenire-errori-da-evitare
+```
+
+### Immagini
+Usare nomi file descrittivi:
+
+```text
+potatura-alberi-terni.webp
+abbattimento-albero-alto-fusto.webp
+tree-climbing-perugia.webp
+consolidamento-arboreo-macerata.webp
+valutazione-stabilita-albero.webp
+```
+
+Alt text esempi:
+
+```text
+Arboricoltore in tree climbing durante potatura di un albero ad alto fusto a Terni
+Abbattimento controllato di un albero vicino a un’abitazione nelle Marche
+Operatore su fune mentre rimuove rami secchi in un giardino privato
+```
+
+---
+
+## 24. Link interni consigliati
+
+### Da homepage a:
+- /servizi
+- /servizi/potatura-alberi
+- /servizi/abbattimento-alberi
+- /servizi/valutazione-stabilita-alberi
+- /servizi/consolidamento-arboreo
+- /servizi/gestione-emergenze-alberi
+- /servizi/lavori-in-fune-tree-climbing
+- /formazione-e-attestati
+- /area-operativa
+- /blog
+- /contatti
+
+### Da pagina potatura a:
+- /servizi/lavori-in-fune-tree-climbing
+- /servizi/valutazione-stabilita-alberi
+- /blog/potatura-alberi-quando-intervenire-errori-da-evitare
+- /contatti
+
+### Da pagina abbattimenti a:
+- /servizi/valutazione-stabilita-alberi
+- /servizi/consolidamento-arboreo
+- /servizi/gestione-emergenze-alberi
+- /contatti
+
+### Da valutazione stabilità a:
+- /servizi/consolidamento-arboreo
+- /servizi/potatura-alberi
+- /servizi/abbattimento-alberi
+- /contatti
+
+### Da emergenze a:
+- /servizi/abbattimento-alberi
+- /servizi/valutazione-stabilita-alberi
+- /contatti
+
+### Da area operativa a:
+- pagine locali provinciali
+- servizi principali
+- contatti
+
+---
+
+## 25. Dati strutturati JSON-LD
+
+### JSON-LD homepage – LocalBusiness / ProfessionalService
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "additionalType": "https://schema.org/TreeService",
+  "name": "Salvatori Federico",
+  "url": "https://salvatorifederico.it/",
+  "telephone": "+393495423828",
+  "email": "salvatori.federico97@libero.it",
+  "description": "Servizi di arboricoltura, potatura, abbattimento alberi ad alto fusto, valutazione di stabilità, consolidamento arboreo, lavori in fune e gestione emergenze in Umbria e Marche.",
+  "priceRange": "€€",
+  "founder": {
+    "@type": "Person",
+    "name": "Federico Salvatori"
+  },
+  "areaServed": [
+    {
+      "@type": "AdministrativeArea",
+      "name": "Umbria"
+    },
+    {
+      "@type": "AdministrativeArea",
+      "name": "Marche"
+    },
+    {
+      "@type": "City",
+      "name": "Terni"
+    },
+    {
+      "@type": "City",
+      "name": "Perugia"
+    },
+    {
+      "@type": "City",
+      "name": "Ascoli Piceno"
+    },
+    {
+      "@type": "City",
+      "name": "Fermo"
+    },
+    {
+      "@type": "City",
+      "name": "Macerata"
+    },
+    {
+      "@type": "City",
+      "name": "Ancona"
+    }
+  ],
+  "sameAs": [
+    "[URL_FACEBOOK]"
+  ],
+  "knowsAbout": [
+    "Arboricoltura",
+    "Potatura alberi",
+    "Abbattimento alberi",
+    "Tree climbing",
+    "Lavori in fune",
+    "Valutazione stabilità alberi",
+    "Consolidamento arboreo",
+    "Gestione emergenze arboree"
+  ]
+}
+</script>
+```
+
+### JSON-LD pagina servizio – esempio Potatura
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "name": "Potatura alberi",
+  "serviceType": "Potatura professionale di alberi ornamentali e ad alto fusto",
+  "provider": {
+    "@type": "ProfessionalService",
+    "name": "Salvatori Federico",
+    "url": "https://salvatorifederico.it/",
+    "telephone": "+393495423828",
+    "email": "salvatori.federico97@libero.it"
+  },
+  "areaServed": [
+    "Umbria",
+    "Marche",
+    "Terni",
+    "Perugia",
+    "Ascoli Piceno",
+    "Fermo",
+    "Macerata",
+    "Ancona"
+  ],
+  "description": "Potatura alberi con approccio tecnico, sicuro e rispettoso della fisiologia della pianta. Interventi anche in tree climbing su alberi ad alto fusto.",
+  "url": "https://salvatorifederico.it/servizi/potatura-alberi"
+}
+</script>
+```
+
+### JSON-LD Article per blog
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Potatura alberi: quando intervenire e quali errori evitare",
+  "description": "Scopri quando è necessario potare un albero, quali tecniche rispettare e quali errori evitare per non danneggiare la pianta.",
+  "author": {
+    "@type": "Person",
+    "name": "Federico Salvatori"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Salvatori Federico",
+    "url": "https://salvatorifederico.it/"
+  },
+  "mainEntityOfPage": "https://salvatorifederico.it/blog/potatura-alberi-quando-intervenire-errori-da-evitare"
+}
+</script>
+```
+
+### JSON-LD Breadcrumb esempio
+
+```html
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://salvatorifederico.it/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Servizi",
+      "item": "https://salvatorifederico.it/servizi"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Potatura alberi",
+      "item": "https://salvatorifederico.it/servizi/potatura-alberi"
+    }
+  ]
+}
+</script>
+```
+
+---
+
+## 26. Google Business Profile – guida operativa
+
+Questa sezione è importante perché l’utente ha aperto il profilo Google Business ma non sa se esiste, se è verificato e se è visibile.
+
+### Cosa verificare subito
+
+1. Accedere a:
+   - `https://business.google.com/`
+   - oppure cercare su Google Maps: `Salvatori Federico`
+2. Verificare se esiste già una scheda con quel nome.
+3. Se esiste:
+   - cliccare su “Richiedi questa attività” o “Sei il proprietario?”
+   - seguire la procedura di verifica.
+4. Se non esiste:
+   - crearla da zero con nome coerente:
+     ```text
+     Salvatori Federico
+     ```
+   - evitare nomi pieni di keyword nel nome attività, perché possono essere contrari alle linee guida Google.
+
+### Verifica del profilo
+
+La verifica può avvenire con metodi diversi in base a quanto reso disponibile da Google:
+- video verifica;
+- cartolina postale;
+- telefono;
+- email;
+- verifica immediata se idoneo.
+
+Se non vedi l’opzione di verifica:
+- completa prima tutte le informazioni;
+- assicurati che la scheda non sia già rivendicata da altri;
+- controlla eventuali profili duplicati;
+- segui le istruzioni nel pannello Google Business Profile.
+
+Finché il profilo non è verificato, potrebbe non essere visibile pubblicamente in modo completo.
+
+### Impostazioni consigliate
+
+#### Nome attività
+
+```text
+Salvatori Federico
+```
+
+#### Categoria principale consigliata
+
+Scegli la categoria più pertinente disponibile su Google. Indicativamente:
+
+```text
+Servizio di potatura alberi / Arboricoltura / Servizio per alberi
+```
+
+Se non esiste una categoria perfettamente identica, usare la più vicina, ad esempio:
+- Servizio di manutenzione giardini
+- Servizio per alberi
+- Impresa di servizi ambientali
+- Ditta specializzata in alberi
+
+#### Categorie secondarie consigliate
+Se disponibili:
+- Servizio di abbattimento alberi
+- Servizio di giardinaggio
+- Manutenzione del verde
+- Servizio di tree climbing, se disponibile
+- Servizi ambientali
+
+#### Tipo di attività
+
+Se non hai un negozio fisico aperto al pubblico, imposta come attività che offre servizi presso i clienti o aree di servizio.
+
+Se Google lo consente:
+- selezionare “Sì, servo clienti presso la loro ubicazione”
+- non mostrare l’indirizzo se non pertinente
+- impostare le aree servite
+
+#### Aree servite da inserire
+- Umbria
+- Marche
+- Terni
+- Perugia
+- Ascoli Piceno
+- Fermo
+- Macerata
+- Ancona
+
+#### Descrizione attività consigliata
+
+```text
+Salvatori Federico offre servizi professionali di arboricoltura, potatura, abbattimento controllato di alberi ad alto fusto, valutazione di stabilità, consolidamento arboreo e lavori in fune in Umbria e Marche. Ogni intervento è pianificato con attenzione alla sicurezza, alla fisiologia dell’albero e al contesto circostante. Contatta per un sopralluogo.
+```
+
+#### Servizi da inserire nel profilo GBP
+- Potatura alberi ornamentali
+- Potatura alberi ad alto fusto
+- Potatura in tree climbing
+- Abbattimento alberi
+- Abbattimento controllato
+- Abbattimento in tree climbing
+- Valutazione stabilità alberi
+- Consolidamento arboreo
+- Gestione emergenze alberi
+- Lavori in fune
+- Messa in sicurezza alberi
+- Sopralluoghi e consulenza
+
+#### Foto consigliate
+Caricare foto reali:
+- logo, se presente;
+- foto del professionista;
+- interventi di potatura;
+- lavori in fune;
+- alberi prima/dopo, se autorizzato;
+- attrezzature;
+- sopralluoghi;
+- immagini di sicurezza.
+
+Evitare foto stock.
+
+#### Post Google consigliati
+Pubblicare periodicamente:
+- nuovi articoli del blog;
+- servizi stagionali;
+- interventi recenti;
+- consigli su maltempo;
+- promemoria potature;
+- nuovi corsi o attestati.
+
+Esempio post:
+
+```text
+Hai un albero con rami secchi o branche troppo sviluppate vicino a casa?
+Una valutazione professionale può aiutarti a capire se è necessario potare, consolidare o monitorare la pianta.
+Servizi di arboricoltura in Umbria e Marche: potatura, abbattimento controllato, lavori in fune ed emergenze.
+Contattaci per un sopralluogo.
+```
+
+### Recensioni
+Quando possibile, chiedere recensioni ai clienti soddisfatti.
+
+Messaggio tipo:
+
+```text
+Se sei soddisfatto del lavoro svolto, ti chiedo se puoi lasciare una recensione su Google: aiuta molto la mia attività e permette ad altre persone di trovarmi. Grazie!
+```
+
+Non offrire incentivi per recensioni e non pubblicare recensioni false.
+
+### Domande e risposte
+Preparare FAQ pubbliche su GBP:
+
+#### In quali zone lavori?
+
+```text
+Lavoro principalmente in Umbria e Marche, nelle province di Terni, Perugia, Ascoli Piceno, Fermo, Macerata e Ancona.
+```
+
+#### Fai preventivi?
+
+```text
+Sì, dopo aver valutato l’albero e il contesto. In molti casi è utile un sopralluogo.
+```
+
+#### Intervieni anche in emergenza?
+
+```text
+Sì, per alberi o rami danneggiati da maltempo, vento, neve o cedimenti improvvisi, compatibilmente con disponibilità e urgenza.
+```
+
+#### Usi piattaforme o tree climbing?
+
+```text
+Dipende dal contesto. Quando possibile e necessario, utilizzo anche tecniche di tree climbing per raggiungere la chioma senza mezzi invasivi.
+```
+
+---
+
+## 27. Facebook
+
+### Pagina Facebook consigliata
+
+Nome pagina:
+
+```text
+Salvatori Federico – Arboricoltura e Potatura
+```
+
+Categoria suggerita:
+
+```text
+Servizio locale
+```
+
+Categorie secondarie se disponibili:
+
+```text
+Giardino / Servizi ambientali / Manutenzione verde
+```
+
+### Descrizione breve Facebook
+
+```text
+Servizi professionali di arboricoltura, potatura, abbattimento alberi ad alto fusto, lavori in fune e gestione emergenze in Umbria e Marche.
+```
+
+### Pulsante CTA
+- Chiama ora
+- Invia messaggio
+- WhatsApp, se attivato
+
+### Informazioni da inserire
+- Telefono
+- Email
+- Link al sito
+- Area servita: Umbria e Marche
+- Eventuale link a WhatsApp
+
+### Piano contenuti Facebook
+Pubblicare:
+- foto di interventi reali;
+- prima/dopo autorizzati;
+- brevi spiegazioni tecniche;
+- consigli su potatura e sicurezza;
+- aggiornamenti su maltempo;
+- nuovi corsi o attestati;
+- link agli articoli del blog.
+
+Esempio post:
+
+```text
+Potare non significa semplicemente tagliare.
+Ogni intervento deve rispettare la fisiologia dell’albero e il contesto in cui si trova.
+
+Mi occupo di potatura, abbattimento controllato, lavori in fune e valutazione stabilità in Umbria e Marche.
+
+Se hai un albero da controllare o potare, contattami per un sopralluogo.
+```
+
+---
+
+## 28. Note legali e privacy
+
+### Pagina Privacy Policy
+URL:
+
+```text
+/privacy-policy
+```
+
+Titolo SEO consigliato, da non indicizzare se necessario:
+
+```text
+Privacy Policy | Salvatori Federico
+```
+
+Contenuto:
+- titolare del trattamento: Salvatori Federico
+- contatti email
+- finalità del form contatti
+- base giuridica
+- diritti dell’interessato
+- eventuale hosting e strumenti terzi
+- cookie policy
+
+### Pagina Cookie Policy
+URL:
+
+```text
+/cookie-policy
+```
+
+Contenuto:
+- tipi di cookie utilizzati
+- cookie tecnici
+- eventuali analytics o strumenti di terze parti
+- gestione preferenze
+- banner cookie se necessario
+
+### Footer legale obbligatorio
+Inserire:
+
+```text
+Salvatori Federico
+P. IVA: [P.IVA]
+Telefono: +39 349 542 3828
+Email: salvatori.federico97@libero.it
+Privacy Policy | Cookie Policy
+```
+
+---
+
+## 29. Consigli per migliorare conversioni
+
+### Elementi di conversione da inserire ovunque
+1. Telefono cliccabile in alto.
+2. Pulsante WhatsApp mobile.
+3. CTA “Richiedi sopralluogo” sopra la piega.
+4. Form breve con pochi campi.
+5. Sezione “Area operativa” chiara.
+6. Testi che spiegano quando chiamare.
+7. Pagina emergenze con CTA urgente.
+8. Link interni da blog a contatti.
+
+### CTA consigliate per urgenza
+```text
+Albero danneggiato dal maltempo? Chiama ora.
+```
+
+### CTA consigliate per consulenza
+```text
+Non sai se potare o abbattere? Richiedi una valutazione.
+```
+
+### CTA consigliata per servizi tecnici
+```text
+Ogni albero richiede un intervento diverso: contattaci per un sopralluogo.
+```
+
+---
+
+## 30. Check-list finale prima della pubblicazione
+
+### Contenuti
+- [ ] Tutte le pagine principali create.
+- [ ] Homepage con servizi e CTA.
+- [ ] Chi sono aggiornato.
+- [ ] Sei pagine servizi pubblicate.
+- [ ] Pagina formazione pubblicata.
+- [ ] Pagina area operativa pubblicata.
+- [ ] Pagine locali create con contenuti unici.
+- [ ] Blog attivo con almeno primo articolo.
+- [ ] Pagina contatti con form funzionante.
+- [ ] P. IVA inserita in footer.
+- [ ] Privacy e Cookie Policy presenti.
+
+### SEO
+- [ ] Title tag unici.
+- [ ] Meta description uniche.
+- [ ] H1 unico per pagina.
+- [ ] URL pulite.
+- [ ] Link interni attivi.
+- [ ] Immagini ottimizzate.
+- [ ] Alt text descrittivi.
+- [ ] Sitemap XML.
+- [ ] Robots.txt.
+- [ ] JSON-LD inseriti.
+- [ ] Redirect corretti se ci sono versioni www/non-www.
+- [ ] Sito veloce su mobile.
+
+### Contatti
+- [ ] Telefono cliccabile.
+- [ ] WhatsApp attivo.
+- [ ] Email cliccabile.
+- [ ] Form testato.
+- [ ] Email di conferma ricevuta, se possibile.
+- [ ] Messaggio di ringraziamento dopo invio form.
+
+### Google Business Profile
+- [ ] Profilo creato o rivendicato.
+- [ ] Stato verifica controllato.
+- [ ] Categorie impostate.
+- [ ] Aree servite impostate.
+- [ ] Descrizione inserita.
+- [ ] Servizi inseriti.
+- [ ] Foto caricate.
+- [ ] Link al sito inserito.
+- [ ] Telefono coerente con il sito.
+- [ ] Email coerente, se presente.
+
+### Facebook
+- [ ] Pagina creata.
+- [ ] Nome coerente.
+- [ ] Immagine profilo/logo.
+- [ ] Copertina.
+- [ ] Descrizione.
+- [ ] CTA.
+- [ ] Link al sito.
+- [ ] Primo post pubblicato.
+
+---
+
+## 31. Roadmap operativa consigliata
+
+### Priorità 1 – immediata
+- Creare sito con pagine principali.
+- Pubblicare servizi essenziali.
+- Inserire contatti e area operativa.
+- Verificare e completare Google Business Profile.
+- Creare pagina Facebook.
+- Pubblicare primo articolo blog.
+
+### Priorità 2 – primo mese
+- Pubblicare pagine locali per Terni, Perugia, Ascoli Piceno, Fermo, Macerata, Ancona.
+- Pubblicare 2-4 articoli blog.
+- Caricare foto reali dei lavori.
+- Richiedere prime recensioni Google.
+
+### Priorità 3 – 2/3 mesi
+- Pubblicare casi di intervento, se autorizzato.
+- Ampliare blog con guide stagionali.
+- Aggiornare formazione con nuovi corsi.
+- Ottimizzare contenuti in base alle ricerche reali.
+- Valutare eventuale Instagram in futuro.
+
+---
+
+## 32. Indicazioni per aggiornamenti futuri
+
+### Quando aggiungi un nuovo corso
+Creare o aggiornare la sezione:
+
+```text
+/formazione-e-attestati
+```
+
+Inserire:
+- nome corso;
+- ente;
+- anno;
+- breve descrizione;
+- eventuale attestato visibile.
+
+Esempio:
+
+```text
+Corso di aggiornamento in arboricoltura ornamentale – [Nome ente], [Anno]
+```
+
+### Quando pubblichi un nuovo intervento
+Se possibile, creare:
+- post Facebook;
+- post Google Business Profile;
+- eventuale articolo blog con foto e descrizione.
+
+### Quando arriva stagione specifica
+Aggiornare:
+- homepage con CTA stagionale;
+- blog con articoli stagionali;
+- Google Business con post su potature, maltempo, emergenze.
+
+---
+
+## 33. Nota finale per l’agente
+
+Il sito deve risultare:
+- chiaro;
+- professionale;
+- veloce;
+- orientato al contatto;
+- ottimizzato per ricerche locali in Umbria e Marche;
+- ricco di contenuti utili senza essere dispersivo.
+
+La priorità è far capire all’utente:
+1. Che servizio offri.
+2. Dove intervieni.
+3. Perché affidarsi a te.
+4. Come contattarti rapidamente.
+
+Mantenere sempre coerenza tra:
+- sito;
+- Google Business Profile;
+- Facebook;
+- eventuali future schede locali.
